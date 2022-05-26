@@ -1,1 +1,1 @@
-My directory readme
+Starting to code today, so cool
